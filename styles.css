@@ -9,3 +9,7 @@ h3{
 a:hover{
     color: blue;
 }
+h2{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
